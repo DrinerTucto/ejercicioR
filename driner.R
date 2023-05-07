@@ -6,3 +6,8 @@ print(paste("Hola,", my_name,
             "Mi nombre es", 
             my_age + 1,
             "años de edad."))
+
+
+
+
+comentario:https://fhernanb.github.io/Manual-de-R/estilo.html
